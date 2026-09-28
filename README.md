@@ -1,3 +1,3 @@
-# Primo-prog
+# Epicode challenges 
 First challenge 
 Second challenge
